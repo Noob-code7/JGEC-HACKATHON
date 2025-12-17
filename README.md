@@ -1,2 +1,1 @@
-# JGEC-HACKATHON
-Hackathon
+
